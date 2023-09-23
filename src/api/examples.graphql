@@ -1,0 +1,7 @@
+query Person {
+  person(id: 1) {
+    name
+    age
+    email
+  }
+}
